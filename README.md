@@ -16,6 +16,3 @@
 * 'git branch branchName' - creates new local branch 'branchName'
 * 'git checkout branchName' - switches branch to 'branchName'
 * 'git checkout -b branchName' - switches and creates branch 'branchName'
-
-
-##
