@@ -10,3 +10,6 @@
 * 'git log' - show previous commit logs
 * 'git log --oneline' - list commits (compact format)
 * 'git status' - show status of working directory
+* 'git branch' - tells you what branch you're on by highlighting
+* 'git branch "branchName"' - creates new local branch 'branchName'
+* 'git checkout branchName' - switches different branch  'branchName'
