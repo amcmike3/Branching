@@ -1,5 +1,8 @@
 ## Git Cheat Sheet and Branching Practice
 
+### Overview
+Just playing with branches
+
 ### Basic Commands
 * 'git init' intialize local rep0
 * 'git add . ' - stage all file for commit
